@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    background-color: #c5e1ff;
+    margin-top: 40px; 
+    margin-left: 90px; 
+    margin-right: 90px; 
+    font-size: 25px;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.topic{
+    width: 100%;
+    text-align: center
+
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 5px solid rgb(127, 223, 255);
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    resize: vertical;
+    font-size: 16px;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.checkbox,
+.radio {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.checkbox label,
+.radio label {
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+input[type="submit"] {
+    background-color: #04aa6d;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Container */
+
+.container {
+    border-radius: 50px;
+    background-color: #c0fff2bd;
+    padding: 50px;
+    font-size: 17px;
+}
