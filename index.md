@@ -2,7 +2,11 @@
 # kittitat.preecha 1630707821
 # edit from A
 <<<<<<< HEAD
+<<<<<<< HEAD
 # new function 3
 =======
 # add comment From B
 >>>>>>> 4db44ec (add comment from B)
+=======
+# comment
+>>>>>>> 8b2fadf (add comment from B)
